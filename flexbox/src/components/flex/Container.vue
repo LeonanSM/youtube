@@ -3,25 +3,13 @@
     <Item label="1" padding="20" :styles="this.styles.item1" />
     <Item label="2" padding="30" :styles="this.styles.item2" />
     <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
-    <Item label="3" padding="40" :styles="this.styles.item3" />
+    <Item label="4" padding="40" :styles="this.styles.item3" />
+    <Item label="5" padding="40" :styles="this.styles.item3" />
+    <Item label="6" padding="40" :styles="this.styles.item3" />
+    <Item label="7" padding="40" :styles="this.styles.item3" />
+    <Item label="8" padding="40" :styles="this.styles.item3" />
+    <Item label="9" padding="40" :styles="this.styles.item3" />
+    <Item label="10" padding="40" :styles="this.styles.item3" />
     <div :class="axisClass"></div>
   </div>
 </template>
